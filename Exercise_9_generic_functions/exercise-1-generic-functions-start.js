@@ -1,5 +1,5 @@
 "use strict";
-/** 
+/**
  * START: Follow the instructions below.
  */
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
